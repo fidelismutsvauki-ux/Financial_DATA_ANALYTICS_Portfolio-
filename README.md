@@ -1,5 +1,7 @@
 # Financial Data Analytics Portfolio — Synthetic Loan Portfolio
 
+> **Note:** This project uses a **synthetic dataset of 300 loans**. The figures are illustrative and do not represent real company data.
+
 **Author:** Fidelis Mutsvauki  
 **Focus:** Python, SQL, data quality, exploratory analysis, portfolio reporting
 
@@ -39,12 +41,6 @@ The simulated default rates are designed only to demonstrate analytical methods.
 
 ## Skills demonstrated
 Python • pandas • SQL • data cleaning • exploratory data analysis • financial reporting • visualisation
-
-# Financial Data Analytics Portfolio
-
-Analysis of a loan portfolio using Python and SQL, covering data quality checks, product and branch summaries, and disbursement trends.
-
-> **Note:** This project uses a **synthetic dataset of 300 loans**. The figures are illustrative and do not represent real company data.
 
 ## Data quality
 All checks passed: 300 rows, 0 duplicate loan IDs, 0 missing cells, 0 invalid principal values, 0 invalid default flags.
