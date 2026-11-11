@@ -57,7 +57,7 @@ All checks passed: 300 rows, 0 duplicate loan IDs, 0 missing cells, 0 invalid pr
 |---|---|---|---|---|
 | Asset Finance | 46 | 954,528 | 20,751 | 4.3% |
 | Personal Loan | 172 | 815,634 | 4,742 | 5.2% |
-| SME Loan | 82 | 1,085,705 | ~13,240 | X.X% |
+| SME Loan | 82 | 1,085,705 | ~13,240 | 9.8% |
 
 - Personal Loans are the largest book by count (57% of loans) but the smallest tickets.
 - SME Loans hold the most principal (about 38% of the total).
