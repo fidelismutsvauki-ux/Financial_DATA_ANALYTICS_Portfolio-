@@ -1,0 +1,6 @@
+check,result
+rows,300
+duplicate_loan_ids,0
+missing_cells,0
+invalid_principal,0
+invalid_default_flags,0
