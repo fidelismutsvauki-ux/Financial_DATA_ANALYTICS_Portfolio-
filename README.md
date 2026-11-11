@@ -72,7 +72,7 @@ All checks passed: 300 rows, 0 duplicate loan IDs, 0 missing cells, 0 invalid pr
 - Harare is the largest branch by principal (about 24% of the total).
 - Mutare has the highest illustrative default rate (9.3%) and Masvingo the lowest (4.6%).
 
-- ## Monthly disbursements
+ ##Monthly disbursements
 
 | Month | Loans | Total principal (USD) |
 |---|---|---|
