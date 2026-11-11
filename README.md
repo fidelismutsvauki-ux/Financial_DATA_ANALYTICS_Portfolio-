@@ -76,6 +76,27 @@ All checks passed: 300 rows, 0 duplicate loan IDs, 0 missing cells, 0 invalid pr
 - Harare is the largest branch by principal (about 24% of the total).
 - Mutare has the highest illustrative default rate (9.3%) and Masvingo the lowest (4.6%).
 
+- ## Monthly disbursements
+
+| Month | Loans | Total principal (USD) |
+|---|---|---|
+| 2025-01 | 19 | 210,620 |
+| 2025-02 | 15 | 94,761 |
+| 2025-03 | 22 | 195,080 |
+| 2025-04 | 22 | 272,057 |
+| 2025-05 | 26 | 346,247 |
+| 2025-06 | 30 | 215,304 |
+| 2025-07 | 27 | 250,405 |
+| 2025-08 | 31 | 322,579 |
+| 2025-09 | 28 | 207,508 |
+| 2025-10 | 24 | 187,429 |
+| 2025-11 | 28 | 291,943 |
+| 2025-12 | 28 | 261,933 |
+
+- February was the weakest month (15 loans, about 95k). May had the highest principal (about 346k), and August had the most loans (31).
+- Disbursements grew through the year: the second half had 166 loans and about 1.52M in principal, against 134 loans and about 1.33M in the first half (53% of total principal came in H2).
+- Loan count and principal don't always move together. June had 30 loans but only about 215k in principal, which means a smaller average ticket that month.
+
 ## Charts
 
 
