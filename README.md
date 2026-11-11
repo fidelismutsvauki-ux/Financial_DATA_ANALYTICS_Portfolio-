@@ -39,3 +39,62 @@ The simulated default rates are designed only to demonstrate analytical methods.
 
 ## Skills demonstrated
 Python • pandas • SQL • data cleaning • exploratory data analysis • financial reporting • visualisation
+
+# Financial Data Analytics Portfolio
+
+Analysis of a loan portfolio using Python and SQL, covering data quality checks, product and branch summaries, and disbursement trends.
+
+> **Note:** This project uses a **synthetic dataset of 300 loans**. The figures are illustrative and do not represent real company data.
+
+## Data quality
+All checks passed: 300 rows, 0 duplicate loan IDs, 0 missing cells, 0 invalid principal values, 0 invalid default flags.
+
+## Key findings
+
+**By product**
+
+| Product | Loans | Total principal (USD) | Average loan (USD) | Illustrative default rate |
+|---|---|---|---|---|
+| Asset Finance | 46 | 954,528 | 20,751 | 4.3% |
+| Personal Loan | 172 | 815,634 | 4,742 | 5.2% |
+| SME Loan | 82 | 1,085,705 | ~13,240 | X.X% |
+
+- Personal Loans are the largest book by count (57% of loans) but the smallest tickets.
+- SME Loans hold the most principal (about 38% of the total).
+- Asset Finance has the largest average loan.
+
+**By branch**
+
+| Branch | Loans | Total principal (USD) | Illustrative default rate |
+|---|---|---|---|
+| Bulawayo | 54 | 509,002 | 5.6% |
+| Gweru | 57 | 537,641 | 5.3% |
+| Harare | 70 | 686,869 | 7.1% |
+| Masvingo | 65 | 598,557 | 4.6% |
+| Mutare | 54 | 523,799 | 9.3% |
+
+- Harare is the largest branch by principal (about 24% of the total).
+- Mutare has the highest illustrative default rate (9.3%) and Masvingo the lowest (4.6%).
+
+## Charts
+
+
+![Monthly disbursements](outputs/monthly_disbursements.png)
+
+
+
+
+![Principal by product](outputs/principal_by_product.png)
+
+
+
+## Project structure
+- `data/`: dataset
+- `sql/`: SQL queries
+- `src/`: Python analysis script
+- `outputs/`: generated CSV summaries and charts
+
+## Tools
+Python (pandas, matplotlib), SQL, Google Colab, GitHub
+
+
